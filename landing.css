@@ -1,0 +1,52 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+  background: url(images/pexels-shvets-anna-2563386.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  
+}
+
+h1 {
+    font-size: 3rem;
+    color: #dbe6e2;
+}
+
+hr {
+    border-color: #ff0000;
+    border-width: 3px;
+    max-width: 100px;
+    
+}
+
+.buffer {
+    height: 15rem;
+}
+
+.btn {
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+}
+
+.btn-success {
+    background-color: #ffff4586;
+    border-color: #ffff4586;
+}
+
+.btn-success:hover {
+    background-color: #ffff4586;
+    border-color: #ffff4586;
+    border-width: 4px;
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
+}
+ 
+
+    
+
